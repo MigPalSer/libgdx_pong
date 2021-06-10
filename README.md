@@ -1,3 +1,11 @@
 # libgdx_pong
 
-A simple "pong" game (tennis videogame) for to learn libGDX.
+A simple game to learn libGDX.
+
+3 modes:
+
+Pong tennis
+
+Broke the blocks
+
+Free bubbles.
