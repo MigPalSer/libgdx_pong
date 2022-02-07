@@ -1,3 +1,5 @@
+## Abandoned project (for now).
+
 # libgdx_pong
 
 A simple game to learn libGDX.
